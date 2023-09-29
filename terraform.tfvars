@@ -1,4 +1,4 @@
-project_name = "lustrous-bit-313410"
+project_name = "presales-infra-mod"
 vpc_name     = "infra-manager-sample-vpc"
 region       = "asia-south1"
 zone         = "asia-south1-a"
