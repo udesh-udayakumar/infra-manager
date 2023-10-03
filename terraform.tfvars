@@ -1,5 +1,5 @@
 project_name = "presales-infra-mod"
-vpc_name     = "infra-manager-sample-vpc"
+vpc_name     = "infra-manager-vpc"
 region       = "asia-south1"
 zone         = "asia-south1-a"
 subnet       = "infra-manager-subnet"
